@@ -4,6 +4,7 @@ Diabetic retinopathy (DR) is a leading cause of blindness among adults of workin
 This project aims to develop a deep learning method using a pre-trained Convolutional Neural Network (CNN), ResNet-152, to classify DR into five severity levels: No DR, Mild, Moderate, Severe, and Proliferative DR. Automation aims to streamline grading procedures and enhance diagnostic accuracy.
 Additionally, a Graphical User Interface (GUI) system is being created for efficient patient data management, addressing model bias in imbalanced datasets. This initiative seeks to innovate DR detection and assessment, aiming to improve healthcare delivery and patient outcomes in ophthalmology.
 
+Dataset : APOTS Kaggle Blindness dataset
 
 Tech Stack Required and Implementation
 
